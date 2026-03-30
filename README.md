@@ -48,13 +48,3 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a> `dkzlshzl99@gmail.com`
 
----
-
-### 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChuHoYeon&show_icons=true&theme=transparent&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChuHoYeon&layout=compact&theme=transparent"  />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chu-HoYeon&show_icons=true&theme=transparent&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chu-HoYeon&layout=compact&theme=transparent" />
-</div>

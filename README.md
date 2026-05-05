@@ -22,12 +22,12 @@
 
 ### 🚀 Featured Project
 #### [DentiCheck: AI-Powered Dental Intelligence](https://github.com/DentiCheck/denticheck)
-> **AI 기반 구강 건강 검진 및 헬스케어 생태계 서비스** (해커톤 프로젝트)
-> 
-> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+> **AI 기반 구강 건강 검진 및 헬스케어 생태계 서비스** (해커톤 프로젝트)  
+> 2026.02.04 ~ 2026.02.20
 
 * **Description**: 스마트폰 촬영 이미지 기반 AI 구강 진단 및 맞춤형 헬스케어 리포트를 제공하는 통합 플랫폼입니다.
-* **Key Contributions (Backend & Security)**:
+* **Key Contributions (Backend & Security)**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+  
     * **OAuth 2.0 & JWT 인증 아키텍처**: Google OAuth 2.0 기반 SSO를 구축하고, Access/Refresh Token 기반 보안 파이프라인을 설계하여 모바일(App)과 웹(Admin) 간 인증 일관성 확보.
     * **인가 시스템(RBAC) 구현**: Spring Security를 활용하여 사용자 역할별(User/Admin) API 접근 제어 로직을 구현하고 데이터 접근 보안 강화.
     * **AI 서버 연동 및 챗봇 세션 관리**: 외부 AI 서버와의 통신 인터페이스를 구축하고, 대화 맥락 유지를 위한 세션 관리 로직을 구현하여 원활한 AI 상담 경험 제공.
@@ -35,9 +35,9 @@
 ---
 
 ### 🌱 I’m currently learning
-* ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) **Docker:** 서비스의 컨테이너화 및 배포 자동화 과정을 학습 중입니다.
-* ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) **Redis:** 데이터 캐싱을 통한 API 성능 최적화에 관심이 많습니다.
-* ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) **Vue.js:** 백엔드와 유기적으로 통신하는 프론트엔드 환경을 이해하기 위해 공부하고 있습니다.
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 

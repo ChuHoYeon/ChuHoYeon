@@ -101,7 +101,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Get in touch**  
-<a href="mailto:dkzlshzl99@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dkzlshzl99@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 
